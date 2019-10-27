@@ -1,6 +1,8 @@
 # Machine-Learning
 Machine learning course DD2421 labs at KTH Autumn 2019
+
 using Jupyter notebook
+
 Finished by Yuxia Wang
 
 
